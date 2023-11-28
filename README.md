@@ -5,13 +5,9 @@
 
 * 🏫 I'm currently studying Computer Science.
 
-* ❓ Do you have a commission? [Message Me](https://discord.gg/FR64fKRs2N).
-
 * 👨‍💻 Portfolio: [https://www.loganmagnan.com](https://www.loganmagnan.com).
 
-* 💬 Ask me about Java, JavaScript, and Python.
-
-* 📫 For business inquiries: admin@loganmagnan.com.
+* ❓ For business inquiries: admin@loganmagnan.com.
 
 <h3 align="left">Contact Me</h3>
 <p align="left">
