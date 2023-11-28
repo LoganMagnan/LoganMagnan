@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Logan Magnan! 👋</h1>
-<h3 align="center">A 19 year old full stack developer/manager with 5+ years of experience Minecraft plugin and Discord bot development as well as in management.</h3>
+<h1>Hey, I'm Logan Magnan! 👋</h1>
+<h3>A 19 year old full stack developer/manager with 5+ years of experience Minecraft plugin and Discord bot development as well as in management.</h3>
 
 * 🌳 I’m currently working on [Silent Network](https://discord.gg/silentmc).
 
