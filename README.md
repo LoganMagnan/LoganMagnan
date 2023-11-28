@@ -7,7 +7,7 @@
 
 * 👨‍💻 Portfolio: [https://www.loganmagnan.com](https://www.loganmagnan.com).
 
-* ❓ For business inquiries: admin@loganmagnan.com.
+* ❓ Business Inquiries: admin@loganmagnan.com.
 
 <h3 align="left">Contact Me</h3>
 <p align="left">
