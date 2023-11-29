@@ -1,4 +1,4 @@
-<h1 align="left">Hello, my name is Logan Magnan.</h1>
+<h1 align="left">Hello, my name is Logan Magnan! 👋</h1>
 <h3 align="left">A 19 year old full stack developer and manager with 5+ years of experience Minecraft plugin and Discord bot development as well as in management.</h3>
 
 * 🌳 I’m currently working on [Silent Network](https://discord.gg/silentmc).
