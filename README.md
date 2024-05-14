@@ -5,7 +5,7 @@
 
 * 🏫 I'm currently studying Computer Science.
 
-* 👨‍💻 Portfolio: [https://www.loganmagnan.com](https://loganmagnan.com).
+* 👨‍💻 Portfolio: [https://loganmagnan.com](https://loganmagnan.com).
 
 * ❓ Business Inquiries: admin@loganmagnan.com.
 
